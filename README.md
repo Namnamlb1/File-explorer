@@ -1,8 +1,7 @@
 Tên SV : Nguyễn Hoài Nam
 
-MÃ SV : 17it116
-
-ĐỀ số 13 :
+MÃ SV : 17it077
+Mã đề: 13
 
 Câu 1 :Giao diện FileExplore ;
 
